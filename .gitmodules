@@ -1,0 +1,3 @@
+[submodule "MuseReader"]
+	path = MuseReader
+	url = https://github.com/khaytao/MuseReader.git
